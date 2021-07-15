@@ -1,0 +1,14 @@
+.frontsection {
+    background-color: #e6e8e8;
+    height: 420px;
+}
+.navColor{
+    background-color: #000000;
+}
+
+.heading{
+    text-align: center;
+    padding-top: 150px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70px;
+}
