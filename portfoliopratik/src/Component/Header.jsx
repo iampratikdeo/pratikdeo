@@ -7,7 +7,7 @@ function Header(){
     return(
         <Navbar className={na.navColor} variant="light">
             <Container>
-                <Navbar.Brand href="#home">Pratik Deo</Navbar.Brand>
+                <Navbar.Brand href="#home"></Navbar.Brand>
                     <Nav className="center">
                         <Nav.Link href="#home" style={{paddingLeft: 20, paddingRight: 20, color: "white"}}>Home</Nav.Link>
                         <Nav.Link href="#features" style={{paddingLeft: 20, paddingRight: 20, color: "white"}}>Projects</Nav.Link>
