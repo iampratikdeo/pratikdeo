@@ -17,7 +17,7 @@ function AboutMe(){
                     </p>
                 </Col>
                 <Col xs={4}>
-                    <img alt="nothing" src="logo192.png"></img>
+                    <img className={styles.img} alt="nothing" src="logo192.png"></img>
                 </Col>
                 <Col xs={2}></Col>
             </Row>

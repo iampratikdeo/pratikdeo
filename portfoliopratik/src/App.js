@@ -3,6 +3,7 @@ import Nav from './Component/Header';
 import Frontsection from './Component/Frontsection';
 import About from './Component/About';
 import Education from './Component/Education';
+import Certifications from './Component/Certifications';
 
 function Space(props){
   return (
@@ -34,6 +35,7 @@ function App() {
       <About />
       <Education school1 = {pillai} school2 = {stevens}/>
       <Space bg={"#e6e8e8"}/>
+      <Certifications />
     </div>
   );
 }
