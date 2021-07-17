@@ -4,6 +4,7 @@ import Frontsection from './Component/Frontsection';
 import About from './Component/About';
 import Education from './Component/Education';
 import Certifications from './Component/Certifications';
+import WorkExp from './Component/WorkExp';
 
 function Space(props){
   return (
@@ -36,6 +37,8 @@ function App() {
       <Education school1 = {pillai} school2 = {stevens}/>
       <Space bg={"#e6e8e8"}/>
       <Certifications />
+      <Space bg={"#455561"}/>
+      <WorkExp />
     </div>
   );
 }
