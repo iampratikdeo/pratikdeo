@@ -1,6 +1,5 @@
 import React from "react";
-import { Col } from "react-bootstrap";
-import reactDom, { render } from 'react-dom';
+import { Row, Col } from "react-bootstrap";
 import front from './Frontsection.module.css';
 
 function Frontsection(){
@@ -13,6 +12,31 @@ function Frontsection(){
                     <p style={{textAlign:"center", fontSize: 20}}>Changing the Web one page at a time.</p>
                 </div>
                 <div>
+                <Row>
+        <Col xs={3}></Col>
+        <Col xs={1}>
+            <img height="40" src="favicon.ico" alt = "react"></img>
+        </Col>
+        <Col xs={1}>
+          <img height="58" src="nodejs.ico" alt = "nodejs"></img>
+        </Col>
+        <Col xs={1}>
+        <img height="40" src="python.ico" alt = "nodejs"></img>
+        </Col>
+        <Col xs={1}>
+          <img height="40" src="html.ico" alt="html"></img>
+        </Col>
+        <Col xs={1}>
+        <img height="40" src="css.ico" alt="html"></img>
+        </Col>
+        <Col xs={1}>
+          <img height="40" src="sql.ico" alt="sql"></img>
+        </Col>
+        <Col xs={1}>
+          <img height="40" src="aws.ico" alt="sql"></img>
+        </Col>
+        <Col xs={2}></Col>
+      </Row>
                 </div>
             </div>
     );

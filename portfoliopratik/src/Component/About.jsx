@@ -10,8 +10,8 @@ function AboutMe(){
             <Row>
                 <Col xs={2}></Col>
                 <Col xs={4}>
-                    <h2 style={{color:"white", fontSize: 40,paddingTop: 30}}>About Me</h2>
-                    <p style={{color:"white", fontSize: 20, paddingTop: 20}}>
+                    <h2 style={{color:"black", fontSize: 40,paddingTop: 30}}>About Me</h2>
+                    <p style={{color:"black", fontSize: 20, paddingTop: 20}}>
                     
                     I am a self-driven, result-oriented computer science graduate 
                     with 2 years of academic experience seeking new challenges as entry level software developer.<br></br> <br></br> 

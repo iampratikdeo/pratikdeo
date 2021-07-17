@@ -1,6 +1,5 @@
 import React from "react";
 import {Navbar, Container, Nav} from 'react-bootstrap'
-import reactDom from 'react-dom';
 import na from './Frontsection.module.css'
 
 function Header(){

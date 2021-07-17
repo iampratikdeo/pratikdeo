@@ -1,9 +1,13 @@
 .frontsection {
-    background-color: #e6e8e8;
+    background: rgb(230,232,232);
+    background: radial-gradient(circle, rgba(230,232,232,1) 44%, rgba(69,85,97,1) 87%);
     height: 570px;
+    
 }
+
 .navColor{
-    background-color: #313e50;
+    /* background-color: #313e50; */
+    background-color: #ffffff;
 }
 
 .heading{
@@ -11,4 +15,9 @@
     padding-top: 150px;
     font-family: 'Montserrat', sans-serif;
     font-size: 70px;
+    transition: width 2s, height 2s, transform 2s;
+}
+.heading:hover{
+    font-size: 100px;
+    transform: rotate(-2deg);
 }
