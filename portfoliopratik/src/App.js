@@ -5,10 +5,42 @@ import About from './Component/About';
 import Education from './Component/Education';
 import Certifications from './Component/Certifications';
 import WorkExp from './Component/WorkExp';
+import { Col, Row } from 'react-bootstrap';
 
 function Space(props){
   return (
     <div style={{height: 50, backgroundColor:props.bg}}></div>
+  )
+}
+function SpaceIcon(props){
+  return (
+    <div style={{height: 50, backgroundColor:props.bg}}>
+      <Row>
+        <Col xs={3}></Col>
+        <Col xs={1}>
+            <img height="40" src="favicon.ico" alt = "react"></img>
+        </Col>
+        <Col xs={1}>
+          <img height="58" src="nodejs.ico" alt = "nodejs"></img>
+        </Col>
+        <Col xs={1}>
+        <img height="40" src="python.ico" alt = "nodejs"></img>
+        </Col>
+        <Col xs={1}>
+          <img height="40" src="html.ico" alt="html"></img>
+        </Col>
+        <Col xs={1}>
+        <img height="40" src="css.ico" alt="html"></img>
+        </Col>
+        <Col xs={1}>
+          <img height="40" src="sql.ico" alt="sql"></img>
+        </Col>
+        <Col xs={1}>
+          <img height="40" src="aws.ico" alt="sql"></img>
+        </Col>
+        <Col xs={2}></Col>
+      </Row>
+    </div>
   )
 }
 
@@ -32,7 +64,7 @@ function App() {
     <div>
       <Nav />
       <Frontsection />
-      <Space bg={"#e6e8e8"}/>
+      <SpaceIcon bg={"#e6e8e8"}/>
       <About />
       <Education school1 = {pillai} school2 = {stevens}/>
       <Space bg={"#e6e8e8"}/>

@@ -10,7 +10,7 @@ function AboutMe(){
             <Row>
                 <Col xs={2}></Col>
                 <Col xs={4}>
-                    <h2 style={{color:"white", fontSize: 40,paddingTop: 25}}>About Me</h2>
+                    <h2 style={{color:"white", fontSize: 40,paddingTop: 30}}>About Me</h2>
                     <p style={{color:"white", fontSize: 20, paddingTop: 20}}>
                     My goal is to solve complex problems using software and by collaborating with like-minded people. 
                     I love coding in a fun and immersive way
