@@ -9,7 +9,8 @@ function Frontsection(){
             <div className={front.frontsection}>
                 <div>
                     <h1 className={front.heading}>Hi, my name is Pratik Deo</h1>
-                    <p style={{textAlign:"center", fontSize: 30}}>I am a software Developer</p>
+                    <h2 style={{textAlign:"center"}}>I am a software/Web Developer</h2>
+                    <p style={{textAlign:"center", fontSize: 20}}>Changing the Web one page at a time.</p>
                 </div>
                 <div>
                 </div>
