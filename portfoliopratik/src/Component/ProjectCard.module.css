@@ -1,0 +1,23 @@
+.card{
+    box-shadow: 10px 10px 5px grey;
+    background: rgb(230,232,232);
+}
+
+.button5:hover {
+    background-color: #555555;
+    color: white;
+}
+.button5 {
+    background-color: #e6e8e8; /* Green */
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 1px solid;
+  }
