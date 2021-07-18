@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pratikdeo/static/css/main.cba93dd4.chunk.css",
-    "main.js": "/pratikdeo/static/js/main.043d6753.chunk.js",
-    "main.js.map": "/pratikdeo/static/js/main.043d6753.chunk.js.map",
+    "main.js": "/pratikdeo/static/js/main.63fe22c5.chunk.js",
+    "main.js.map": "/pratikdeo/static/js/main.63fe22c5.chunk.js.map",
     "runtime-main.js": "/pratikdeo/static/js/runtime-main.2f5a8ee4.js",
     "runtime-main.js.map": "/pratikdeo/static/js/runtime-main.2f5a8ee4.js.map",
     "static/js/2.f54960ee.chunk.js": "/pratikdeo/static/js/2.f54960ee.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2f5a8ee4.js",
     "static/js/2.f54960ee.chunk.js",
     "static/css/main.cba93dd4.chunk.css",
-    "static/js/main.043d6753.chunk.js"
+    "static/js/main.63fe22c5.chunk.js"
   ]
 }
