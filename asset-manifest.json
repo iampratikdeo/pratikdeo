@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pratikdeo/static/css/main.cba93dd4.chunk.css",
+    "main.js": "/pratikdeo/static/js/main.043d6753.chunk.js",
+    "main.js.map": "/pratikdeo/static/js/main.043d6753.chunk.js.map",
+    "runtime-main.js": "/pratikdeo/static/js/runtime-main.2f5a8ee4.js",
+    "runtime-main.js.map": "/pratikdeo/static/js/runtime-main.2f5a8ee4.js.map",
+    "static/js/2.f54960ee.chunk.js": "/pratikdeo/static/js/2.f54960ee.chunk.js",
+    "static/js/2.f54960ee.chunk.js.map": "/pratikdeo/static/js/2.f54960ee.chunk.js.map",
+    "static/js/3.312419f0.chunk.js": "/pratikdeo/static/js/3.312419f0.chunk.js",
+    "static/js/3.312419f0.chunk.js.map": "/pratikdeo/static/js/3.312419f0.chunk.js.map",
+    "index.html": "/pratikdeo/index.html",
+    "static/css/main.cba93dd4.chunk.css.map": "/pratikdeo/static/css/main.cba93dd4.chunk.css.map",
+    "static/js/2.f54960ee.chunk.js.LICENSE.txt": "/pratikdeo/static/js/2.f54960ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f5a8ee4.js",
+    "static/js/2.f54960ee.chunk.js",
+    "static/css/main.cba93dd4.chunk.css",
+    "static/js/main.043d6753.chunk.js"
+  ]
+}
